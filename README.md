@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=francoislang&label=Profile%20views&color=0e75b6&style=flat" alt="francoislang" /> </p>
 
-- 🌱 I’m currently learning **Vuejs, Python**
+- 🌱 I’m currently learning **Vuejs, Python and Java**
 
 - 📫 How to reach me **langfrancoisfrederic@gmail.com**
 
