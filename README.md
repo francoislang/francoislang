@@ -11,8 +11,8 @@
 
 ### 👨‍💻 About me
 
-- 🧠 Background: **MSc in Condensed Matter Physics** → **Software Architecture (Bac +5)**  
-- 💼 Experience: **Full-Stack Developer for 3 years**
+- 🎓 Education: **MSc in Condensed Matter Physics** and a **Bac+5 diploma in Software Architecture (work-study)**
+- - 💼 Experience: **Full-Stack Developer for 3 years**
 - 🔭 I like building products with clean architecture, strong DX, and pragmatic engineering
 - 🧩 I enjoy topics at the intersection of **engineering + applied math/AI + systems**
 - 📍 Based in France
