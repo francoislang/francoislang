@@ -93,18 +93,4 @@
   </a>
 </p>
 
----
 
-### 📈 GitHub Stats
-
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=francoislang&show_icons=true&locale=en&layout=compact" alt="francoislang" />
-</p>
-
-<p>
-  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=francoislang&show_icons=true&locale=en" alt="francoislang" />
-</p>
-
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=francoislang&" alt="francoislang" />
-</p>
